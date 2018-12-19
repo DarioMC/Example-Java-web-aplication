@@ -1,2 +1,3 @@
-# Example-Java-web-aplication
-Práctica de construcción de una aplicación usando JSP y Servlet
+# Intro-desarrollo-aplicaciones-web
+Laboraratorios y prácticas curso introdución al desarrollo de aplicaciones web
+
